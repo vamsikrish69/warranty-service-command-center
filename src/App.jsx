@@ -1,7 +1,5 @@
-import WarrantyCommandCenter from "./warranty-command-center";
+import WarrantyCommandCenter from "./warranty-command-center.jsx";
 
-function App() {
+export default function App() {
   return <WarrantyCommandCenter />;
 }
-
-export default App;
